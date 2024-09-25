@@ -1,34 +1,5 @@
 # Concesionario CampusCar 🚗
 
-
-En esta tabla se encuentran los datos de inventario de vehiculos
-
-![Captura del Home](https://github.com/user-attachments/assets/96c79174-be8b-4062-9a08-0c5c215c18ef)
-
-En esta tabla se  encuentran los datos de los vehiculos
-
-![Captura del Home](https://github.com/user-attachments/assets/79d0dfb4-4f25-4945-826d-3b695270ae66)
-
-En esta tabla se encuntran los datos de los clientes 
-![Captura del Home](https://github.com/user-attachments/assets/d22044dc-17f1-4c23-8c94-877f066f3a2e)
-
-En esta tabla se encuntran los datos de ventas
-![Captura del Home](https://github.com/user-attachments/assets/9e6ee82c-c439-42d1-8289-f17d87f8f94f)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Tablas
 1. inventario
    
@@ -48,31 +19,36 @@ Contiene información sobre los clientes.
 ![Captura del Home](https://github.com/user-attachments/assets/d22044dc-17f1-4c23-8c94-877f066f3a2e)
 
 6. Mantenimineto
-Registra información sobre el mantenimiento de vehículos.
 
+Registra información sobre el mantenimiento de vehículos.
 ![image](https://github.com/user-attachments/assets/4a5f516e-2553-433b-bed3-0955638d40dd)
 
 6. Ventas
+
 Registra las ventas realizadas a los clientes.
 ![image](https://github.com/user-attachments/assets/edbfd230-7029-4fbe-a765-a66d4f94ff97)
 
 8. pagos
+
 Almacena información sobre los pagos realizados por los clientes.
 ![image](https://github.com/user-attachments/assets/3810454c-d74f-49fd-b33a-03b5bb21f464)
 
 
 10. Vendedores
+
 Contiene información sobre los vendedores.
 ![image](https://github.com/user-attachments/assets/ce39ab00-04ee-4ab5-a920-af82793481d7)
 
 
 
-11. Metodos_de_ventas
+12. Metodos_de_ventas
+    
 Registra los métodos de venta utilizados en las transacciones.
 ![image](https://github.com/user-attachments/assets/19ec73ad-cc13-4887-b4e0-00e40ea3ed74)
 
 
-12. Transacion_de_ventas
+14. Transacion_de_ventas
+
 Almacena información sobre las transacciones de ventas.
 ![image](https://github.com/user-attachments/assets/0810d359-e38d-4519-8ece-70efac80f032)
 
