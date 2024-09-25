@@ -16,3 +16,7 @@ En esta tabla se encuntran los datos de los clientes
 En esta tabla se encuntran los datos de ventas
 
 ![Captura del Home](https://github.com/user-attachments/assets/9e6ee82c-c439-42d1-8289-f17d87f8f94f)
+
+En esta tabla se encuntran los datos de mantenimiento 
+![image](https://github.com/user-attachments/assets/4a5f516e-2553-433b-bed3-0955638d40dd)
+
