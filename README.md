@@ -61,11 +61,22 @@ Almacena información sobre las transacciones de ventas.
 ![image](https://github.com/user-attachments/assets/0810d359-e38d-4519-8ece-70efac80f032)
 
 
-Relaciones entre Tablas
-Vehiculos y inventario: Relación uno a muchos (un vehículo puede tener múltiples registros de inventario).
-Clientes y Ventas: Relación uno a muchos (un cliente puede tener múltiples ventas).
-Clientes y Mantenimineto: Relación uno a muchos (un cliente puede realizar múltiples mantenimientos).
-Vendedores y Ventas: Relación uno a muchos (un vendedor puede realizar múltiples ventas).
-Ventas y pagos: Relación uno a uno (cada venta tiene un único pago).
-Metodos_de_ventas y pagos: Relación uno a muchos (un método de venta puede ser utilizado en múltiples pagos).
-Ventas y Transacion_de_ventas: Relación uno a uno (cada venta tiene una única transacción registrada).
+## Relaciones entre Tablas
+# Vehiculos y inventario: Relación uno a muchos (un vehículo puede tener múltiples registros de inventario).
+
+# Clientes y Ventas: Relación uno a muchos (un cliente puede tener múltiples ventas).
+
+# Clientes y Mantenimineto: Relación uno a muchos (un cliente puede realizar múltiples mantenimientos).
+
+# Vendedores y Ventas: Relación uno a muchos (un vendedor puede realizar múltiples ventas).
+
+# Ventas y pagos: Relación uno a uno (cada venta tiene un único pago).
+
+# Metodos_de_ventas y pagos: Relación uno a muchos (un método de venta puede ser utilizado en múltiples pagos).
+
+# Ventas y Transacion_de_ventas: Relación uno a uno (cada venta tiene una única transacción registrada).
+
+
+## Autores👤
+
+[Mariana Rueda](https://github.com/mariana34r)
