@@ -1,6 +1,6 @@
 # Concesionario CampusCar 🚗
 
-Tablas
+## Tablas
 1. inventario
    
 Esta tabla almacena información sobre la disponibilidad de vehículos.
