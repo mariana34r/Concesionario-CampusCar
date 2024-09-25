@@ -10,6 +10,7 @@ Esta tabla almacena información sobre la disponibilidad de vehículos.
 2. Vehiculos
    
 Almacena información detallada sobre cada vehículo.
+
 ![Captura del Home](https://github.com/user-attachments/assets/79d0dfb4-4f25-4945-826d-3b695270ae66)
 
 
